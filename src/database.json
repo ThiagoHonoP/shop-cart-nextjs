@@ -158,5 +158,85 @@
     "price": 999.00,
     "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-202110?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1632925511000",
     "inStock": 70
-  }
+  },
+  {
+  "id": 21,
+  "name": "Mac Studio",
+  "description": "Desempenho extraordinário com os chips M1 Max ou M1 Ultra. Projetado para profissionais que exigem o máximo. O Mac Studio combina potência, conectividade e eficiência térmica em um formato compacto.",
+  "price": 33999,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-studio-hero-202203?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1645036275537",
+  "inStock": 40
+},
+{
+  "id": 22,
+  "name": "Studio Display",
+  "description": "Tela Retina 5K de 27 polegadas com câmera ultra-angular, sistema de som de alta fidelidade e integração perfeita com os Macs. Ideal para quem busca excelência visual.",
+  "price": 18999,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/studio-display-gallery1-202203?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1645024041704",
+  "inStock": 25
+},
+{
+  "id": 23,
+  "name": "AirTag",
+  "description": "AirTag ajuda você a localizar seus objetos com facilidade. Conecte à rede Buscar da Apple e encontre suas chaves, mochila ou outros itens pessoais com precisão.",
+  "price": 369,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airtag-single-select-202104?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1617761672000",
+  "inStock": 300
+},
+{
+  "id": 24,
+  "name": "Magic Mouse",
+  "description": "Design elegante e superfícies Multi-Touch. O Magic Mouse é wireless, recarregável e ideal para gestos simples e navegação fluida.",
+  "price": 749,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MMMQ3_AV1?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1645138486303",
+  "inStock": 100
+},
+{
+  "id": 25,
+  "name": "Carregador MagSafe",
+  "description": "O Carregador MagSafe torna a recarga sem fio fácil e rápida. Perfeitamente alinhado com o iPhone, oferece uma experiência eficiente com até 15W de potência.",
+  "price": 499,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MHXH3_AV1?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1601063707000",
+  "inStock": 150
+},
+{
+  "id": 26,
+  "name": "Apple Pencil (2ª geração)",
+  "description": "Com precisão milimétrica, baixa latência e suporte para toque duplo, o Apple Pencil (2ª geração) transforma o iPad em uma poderosa ferramenta criativa.",
+  "price": 1399,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU8F2_AV1?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1540596407042",
+  "inStock": 120
+},
+{
+  "id": 27,
+  "name": "Smart Keyboard Folio para iPad Pro",
+  "description": "Teclado completo com proteção frente e verso para seu iPad Pro. Sem necessidade de carregamento ou emparelhamento — é só encaixar e digitar.",
+  "price": 2199,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MXNL2?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1572399047961",
+  "inStock": 80
+},
+{
+  "id": 28,
+  "name": "Cabo USB-C para Lightning (1m)",
+  "description": "Conecte seu iPhone, iPad ou iPod com conector Lightning à porta USB-C para recarregar e sincronizar com eficiência.",
+  "price": 219,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MX0K2?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1570730051032",
+  "inStock": 300
+},
+{
+  "id": 29,
+  "name": "Capa de Silicone para iPhone 13 Pro",
+  "description": "Projetada pela Apple para complementar o iPhone 13 Pro, a capa de silicone com MagSafe protege com estilo e encaixe perfeito.",
+  "price": 549,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM2H3?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1633655883000",
+  "inStock": 200
+},
+{
+  "id": 30,
+  "name": "Adaptador de Energia USB-C de 20W",
+  "description": "Rápido e eficiente. Ideal para carregar seu dispositivo Apple em casa, no trabalho ou em qualquer lugar.",
+  "price": 219,
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MHJE3?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1601688658000",
+  "inStock": 250
+}
 ]
